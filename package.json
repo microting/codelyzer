@@ -63,7 +63,7 @@
   },
   "homepage": "https://github.com/mgechev/codelyzer#readme",
   "devDependencies": {
-    "@commitlint/cli": "8.2.0",
+    "@commitlint/cli": "15.0.0",
     "@commitlint/config-angular": "8.2.0",
     "@types/chai": "4.2.4",
     "@types/mocha": "5.2.7",
