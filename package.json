@@ -96,7 +96,7 @@
   },
   "dependencies": {
     "@angular/core": "9.0.0",
-    "@angular/compiler": "9.0.0",
+    "@angular/compiler": "13.3.1",
     "tslib": "^1.10.0",
     "zone.js": "~0.10.3",
     "rxjs": "^6.5.3",
